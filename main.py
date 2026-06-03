@@ -58,9 +58,22 @@
 #     print(f"{num2} is greater than {num1}")
 
 # else:
-#     print("Both the numbers are same") 
+#     print("Both the numbers are same
 
+# gen = input("please tell your gender as character (M or F):-")
 
+# if gen == "M" or gen== "m":
+#     print("Good Morning Sir")
 
+# elif gen =="F" or gen == "f":
+#     print("Good Morning MAM")
 
- 
+# else:
+#     print("Unidentified Gender") 
+
+a = int(input("Enter the number:-"))
+
+if  a%2==0:
+    print("even")
+else:
+    print("odd")    
